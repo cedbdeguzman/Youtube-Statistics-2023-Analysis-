@@ -42,7 +42,7 @@ The data cleaning was performed using the Python Jupiter notebook. Afterwards, t
 ### Last Phase
 For each question, group-by with aggregation method was used and tables were created for it. Each resulting table was transferred to Power BI for Data Visualization. 
 
-## Data_Cleaning_Process 
+## Data Cleaning Process 
 Notebook file for the data cleaning is uploaded in the repository section. 
 
 Steps: 
