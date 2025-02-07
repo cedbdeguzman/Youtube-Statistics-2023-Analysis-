@@ -9,8 +9,8 @@ This is a data analysis project for the Youtube Statistics for 2023.
 ## Table of Contents
 * [Methods](#Methods)
 * [Data Cleaning Process](#Data-Cleaning-Process)
-* [SQL_EDA_Implementation](#SQL-EDA-Implementation)
-* [Overview_of_the_Results](#Overview-of-the-Results)
+* [SQL EDA Implementation](#SQL-EDA-Implementation)
+* [Overview of the Results](#Overview-of-the-Results)
 * [Insights](#Insights)
 
 ## Data Source
@@ -64,7 +64,7 @@ Steps:
 15. Combine the month, day, and year into one column then convert it to datetime format.
 16. Transfer the cleaned dataframe to SQL Server for Exploratory Data Analysis.
 
-## SQL_EDA_Implementation 
+## SQL EDA Implementation 
 
 The below code was used on the EDA implementation on SQL.
 
@@ -203,7 +203,7 @@ ORDER BY 2 DESC
 
 ```
 
-## Overview_of_the_Results
+## Overview of the Results
 
 ![Image](https://github.com/user-attachments/assets/adfe40b5-cbfc-418f-acac-e31f889d7214)
 ![Image](https://github.com/user-attachments/assets/87dbb076-a630-42d6-b12a-98b8505aeeec)
