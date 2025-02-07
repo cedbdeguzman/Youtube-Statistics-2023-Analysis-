@@ -8,7 +8,7 @@ This is a data analysis project for the Youtube Statistics for 2023.
 
 ## Table of Contents
 * [Methods](#Methods)
-* [Data Cleaning Process](#Data Cleaning Process)
+* [Data Cleaning Process](#Data-Cleaning-Process)
 * [SQL_EDA_Implementation](#SQL-EDA-Implementation)
 * [Overview_of_the_Results](#Overview-of-the-Results)
 * [Insights](#Insights)
