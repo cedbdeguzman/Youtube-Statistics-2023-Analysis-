@@ -4,7 +4,7 @@ This is a data analysis project for the Youtube Statistics for 2023.
 ## Project Overview
 
 ## Author
-* cedbdeguzman
+* [cedbdeguzman](https://github.com/cedbdeguzman)
 
 ## Table of Contents
 * [Methods](#Methods)
